@@ -39,3 +39,24 @@ rl.question("What is your name? ", (answer) => {
   })
 });
 
+/*
+
+Here is my profile - might be a good Tinder bio... enjoy!
+
+vagrant [profile_generator]> node survey.js
+What is your name? Chris "the Rock" Hatcher
+What is an activity you like doing? Skiing
+What do you listen to while doing that? The Story So Far
+Which meal is your favourite? (Breakfast, Lunch, Supper, etc.) Breakfast
+What's your favourite thing to eat for that meal? Pancakes with Maple Syrup
+Which sport is your absolute favourite? Hockey
+What is your superpower? In a few words, tell us what you are amazing at! Singing
+Thank you for your wonderful answers, Chris "the Rock" Hatcher!
+ 
+Profile:
+Chris "the Rock" Hatcher likes listening to The Story So Far while Skiing. They love eating Pancakes with Maple Syrup for their favourite meal, Breakfast. Their favourite sport is Hockey, and they are AMAZING at Singing!
+
+vagrant [profile_generator]>
+
+*/
+
